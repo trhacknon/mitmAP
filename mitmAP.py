@@ -16,7 +16,7 @@ header = """
 try:
     print(header + "             by David Schütz (@xdavidhu)\n")
 except:
-    print(header + "                            by @xdavidhu\n")
+    print(header + "                            by @trhacknon\n")
 
 sudo = "/usr/bin/sudo"
 tee = "/usr/bin/tee"
